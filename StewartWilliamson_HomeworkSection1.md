@@ -1,0 +1,8 @@
+# Stewart Williamson
+### I am a Univeristy of North Texas Graduate with a Bachelor's in Biology with Minor in Chemistry and Speech Pathology, and I also completed some post-bachelor courses focusing on Environmental Sciences. 
+---
+## My goals for Savvy Coders
+### - Become more proficient with Python
+### - Getting Comfortable with Whiteboarding
+### - Learn Tableau
+### - And finally, become a Data Analyst
