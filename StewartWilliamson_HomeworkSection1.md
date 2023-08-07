@@ -13,4 +13,4 @@
 ### -
 ---
 ## My inspiration
-![Image of my Wife and I](C:\Users\Stewby doobie doo\Pictures\IMG_6717.jpg)
+![My wife and I](/SavvyCoders/IMG_6717.jpg)
