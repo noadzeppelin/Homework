@@ -13,4 +13,4 @@
 ### -
 ---
 ## My inspiration
-![](IMG_6717.jpg)
+![My wife and I](IMG_6717.jpg)
